@@ -6,7 +6,7 @@ The career I have chosen to research is video game developer. Video game develop
 # The Basics
 
 A few duties and responsibilities that video game developers have include:
-```
+
   - Developing new ideas for game design
   - Translating visual ideas into code
   - Prototyping, iterate, and polish gameplay
@@ -14,27 +14,27 @@ A few duties and responsibilities that video game developers have include:
   - Monitoring game stability across platforms
   - Reviewing existing coe and recommend improvements
   - Porting games or elements from one system to another
-  ```
+  
 The education required to become a video game developer is a Bachelor's Degree in science or computer science with game development specialty streams.
 
 Video game developers need to develop certain skills that will help them in the workplace. These skills can range from their ability to code to how well they work with others.
 
 A few of the more technical skills that video game developers should have include:
-``` 
+
 - The ability to use Unity, a cross-platform game engine where you can    develop 2D and 3D games. Unity is popular for indie and mobile games.
 
 - Knowing how to work in Unreal Engine. Unreal Engine is a 3D creation    platform used for games across a range of platforms.
 
 - Programming in C# and C++. These two programming languages in           particular are very popular and frequently used to devlop games,        mobile apps, and operating systems(C++).
-```
+
 
 Non-technical skills that video game developers should have include:
-```
+
 - Creativity
 - Passion for video games
 - Wide-ranging knowledge of gaming trends
 - Collaborative skills
-```
+
 
 The average salary of a video game developer in Canada is $67,500.
 
